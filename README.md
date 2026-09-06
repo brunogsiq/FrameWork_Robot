@@ -24,3 +24,6 @@ Explore boas práticas de desenvolvimento ao trabalhar com o Robot Framework. Co
 Participe da comunidade dedicada ao Robot Framework, onde você pode trocar experiências, fazer perguntas e encontrar recursos adicionais, como blogs, tutoriais e cursos para aprimorar suas habilidades.
 
 Explore este repositório para aprofundar seu conhecimento no uso do Robot Framework em automação de testes! 🤖🚀
+
+
+Mensagem teste - Deverá ser apagada após documentação completa
